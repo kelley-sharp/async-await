@@ -7,7 +7,7 @@ Solve them using callbacks.
 Then, refactor them to use promises.
 Then, refactor them to use async / await.
 
-###Part 1: Number Facts
+### Part 1: Number Facts
 
 Make a request to the Numbers API (http://numbersapi.com/) to get a fact about your favorite number. (Make sure you get back JSON by including the json query key, specific to this API. Details.
 
