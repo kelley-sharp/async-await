@@ -1,13 +1,14 @@
-Asynchronous Code in JavaScript
-Let’s have some fun working with callbacks, promises, and async / await!
+### Asynchronous Code in JavaScript
 
-For each of the following exercises, you should do the following:
+This is me having fun working with callbacks, promises, and async / await!
+
+For each of the following exercises, I do the following:
 
 Solve them using callbacks.
 Then, refactor them to use promises.
 Then, refactor them to use async / await.
 
-### Part 1: Number Facts
+## Part 1: Number Facts
 
 Make a request to the Numbers API (http://numbersapi.com/) to get a fact about your favorite number. (Make sure you get back JSON by including the json query key, specific to this API. Details.
 
@@ -17,7 +18,7 @@ Use the API to get 4 facts on your favorite number. Once you have them all, put 
 
 (Note: You’ll need to make multiple requests for this.)
 
-### Part 2: Deck of Cards
+## Part 2: Deck of Cards
 
 Make a request to the Deck of Cards API to request a single card from a newly shuffled deck. Once you have the card, console.log the value and the suit (e.g. “5 of spades”, “queen of diamonds”).
 
@@ -27,7 +28,7 @@ Once you have both cards, console.log the values and suits of both cards.
 
 Build an HTML page that lets you draw cards from a deck. When the page loads, go to the Deck of Cards API to create a new deck, and show a button on the page that will let you draw a card. Every time you click the button, display a new card, until there are no cards left in the deck.
 
-### Part 3: Gotta Catch ‘Em All!
+## Part 3: Gotta Catch ‘Em All!
 
 Figure out how to make a single request to the Pokemon API to get names and URLs for every pokemon in the database.
 
